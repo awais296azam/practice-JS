@@ -14,8 +14,9 @@ Constraints:
 
 Example:
 Input:
-name = "Awais"
+name = " Awais Azam"
+
 
 Output:
-Awais
+Awais Azam
 */
